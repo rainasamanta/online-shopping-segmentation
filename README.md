@@ -1,6 +1,6 @@
 # Behavioral Segmentation of Online Shopping Sessions
 
-An unsupervised machine learning project: careful preparation of skewed behavioral data, PCA, a comparison of four clustering methods, stability and outcome validation, and five named visit types with one business action each.
+Unsupervised clustering of 12,330 online shopping sessions into five visit types using PCA and four cross-checked methods, validated against purchases the models never saw, with conversion ranging from 0.4% (instant bounces) to 24.8% (thorough researchers).
 
 ## Dataset
 
